@@ -1,0 +1,148 @@
+Date,Agent name,Queue,Processed Lots,Target Lots,Reasons
+20/01/2025,Adil Mohd,LH OTP,0,100,Leave
+20/01/2025,Anusha Theerdhala,LH OTP,108,100,Nothing
+20/01/2025,Bharath Pabbala,LH OTP,118,100,Nothing
+20/01/2025,Fahad Bin Saleh Un Naqeeb,LH OTP,118,100,Nothing
+20/01/2025,Govardhan reddy Renati,LH OTP,80,100,Portal issue (Informed)
+20/01/2025,Harika Venkata,LH OTP,96,100,Cab delay (1 hour)
+20/01/2025,Isaac Pagdirai,LH OTP,0,100,Leave
+20/01/2025,Lakshmi Lavanya Gorakala,LH OTP,0,100,Leave
+20/01/2025,Laxmi Prashanthi Regu,LH OTP,99,100,Nothing
+20/01/2025,Mohammed Aleem,LH OTP,99,100,Nothing
+20/01/2025,Naveen kumar Medishetty,LH OTP,92,100,Internet issue ( Informed Abhishek)
+20/01/2025,Prerana Boya,LH OTP,92,100,System restarting (Informed)
+20/01/2025,Rohit Pawar,LH OTP,72,100,Sickness 
+20/01/2025,Sai Chandu Balaga,LH OTP,55,50,Incremental Target
+20/01/2025,Sohel Sayyed,LH OTP,0,100,Nothing
+20/01/2025,Sravani Avula,LH OTP,78,100,Nothing
+20/01/2025,Tanuja Tamarapu,LH OTP,117,100,Nothing
+20/01/2025,Yugendar Reddy Donthiri,LH OTP,55,50,Incremental Target
+20/01/2025,Anirudh Artham,LH OTP,103,100,Nothing
+20/01/2025,Pravalika Yeligala,LH OTP.,205,100,Nothing
+20/01/2025,Shravani Aale,LH OTP.,22,100,Nothing
+20/01/2025,Devi Bhavani Saladi,Owner OTP,104,100,Nothing
+20/01/2025,Keerthana Mandala,Owner OTP,113,100,Nothing
+20/01/2025,Maria Priyanka,Owner OTP,108,100,Nothing
+20/01/2025,Naveen Singh,Owner OTP,123,100,Nothing
+20/01/2025,Priya Takur ,Owner OTP,102,100,Nothing
+20/01/2025,Priyanka Kakan,Owner OTP,0,100,Leave
+20/01/2025,Sai Kumar Itheraj,Owner OTP,121,100,Nothing
+20/01/2025,Sandeep Ramula,Owner OTP,102,100,Nothing
+20/01/2025,Sivamani Koppisetti,Owner OTP,102,100,Nothing
+20/01/2025,Syam Yepuganti,Owner OTP,138,100,Nothing
+20/01/2025,Rakesh Kalakuntla,Owner OTP,0,100,Leave
+20/01/2025,Chandana Kondapuram,Owner OTP,47,100,Nothing
+20/01/2025,Abdul Kadir,LOGs,134,100,Nothing
+20/01/2025,Abenezer Apuri,Reviews,276,300,Nothing
+20/01/2025,Clement Micheal,Reviews,107,300,Nothing
+20/01/2025,Mary Suzana,Faxes,183,200,Nothing
+20/01/2025,Mohamad Rafiya,Reviews,237,300,Incremental Target
+20/01/2025,Naveen Vasala,LOGs,122,100,Nothing
+20/01/2025,Nitish Gadila,Reviews,333,300,Nothing
+20/01/2025,Prasanna Laxmi K,Reviews,279,300,Sickness (Informed)
+20/01/2025,Preethika A M,LOGs,222,100,Nothing
+20/01/2025,Shriel Rithu,Emails,398,100,Nothing
+20/01/2025,Suguna Harijana,Reviews,0,300,Leave
+20/01/2025,Supriya Vanamali,Faxes,203,200,Nothing
+20/01/2025,Vandana Bobbili,Reviews,331,100,Nothing
+20/01/2025,Pravalika Yeligala,Reviews,56,100,Nothing
+20/01/2025,Shravani Aale,Reviews,150,100,Nothing
+20/01/2025,Chandana Kondapuram,Reviews,60,100,Nothing
+21/01/2025,Adil Mohd,LH OTP,113,100,Nothing
+21/01/2025,Anusha Theerdhala,LH OTP,0,100,Leave
+21/01/2025,Bharath Pabbala,LH OTP,149,100,Nothing
+21/01/2025,Fahad Bin Saleh Un Naqeeb,LH OTP,135,100,Nothing
+21/01/2025,Govardhan reddy Renati,LH OTP,112,100,Nothing
+21/01/2025,Harika Venkata,LH OTP,44,100,Half Day Leave
+21/01/2025,Isaac Pagdirai,LH OTP,114,100,Nothing
+21/01/2025,Lakshmi Lavanya Gorakala,LH OTP,94,100,Sickness
+21/01/2025,Laxmi Prashanthi Regu,LH OTP,124,100,Nothing
+21/01/2025,Mohammed Aleem,LH OTP,0,100,Leave
+21/01/2025,Naveen kumar Medishetty,LH OTP,124,100,Nothing
+21/01/2025,Prerana Boya,LH OTP,129,100,Nothing
+21/01/2025,Rohit Pawar,LH OTP,147,100,Nothing
+21/01/2025,Sai Chandu Balaga,LH OTP,59,60,Incremental Target
+21/01/2025,Sohel Sayyed,LH OTP,0,100,Leave
+21/01/2025,Sravani Avula,LH OTP,105,100,Nothing
+21/01/2025,Tanuja Tamarapu,LH OTP,143,100,Nothing
+21/01/2025,Yugendar Reddy Donthiri,LH OTP,61,60,Incremental Target
+21/01/2025,Anirudh Artham,LH OTP,100,100,Nothing
+21/01/2025,Pravalika Yeligala,LH OTP.,30,100,Working 2 queues
+21/01/2025,Shravani Aale,LH OTP.,32,100,Working 2 queues
+21/01/2025,Devi Bhavani Saladi,Owner OTP,135,100,Nothing
+21/01/2025,Keerthana Mandala,Owner OTP,131,100,Nothing
+21/01/2025,Maria Priyanka,Owner OTP,130,100,Nothing
+21/01/2025,Naveen Singh,Owner OTP,153,100,Nothing
+21/01/2025,Priya Takur ,Owner OTP,125,100,Nothing
+21/01/2025,Priyanka Kakan,Owner OTP,0,100,Leave
+21/01/2025,Sai Kumar Itheraj,Owner OTP,0,100,Leave
+21/01/2025,Sandeep Ramula,Owner OTP,123,100,Nothing
+21/01/2025,Sivamani Koppisetti,Owner OTP,129,100,Nothing
+21/01/2025,Syam Yepuganti,Owner OTP,132,100,Nothing
+21/01/2025,Rakesh Kalakuntla,Owner OTP,0,100,Leave
+21/01/2025,Chandana Kondapuram,Owner OTP,42,100,Working 2 queues
+21/01/2025,Abdul Kadir,LOGs,172,100,Nothing
+21/01/2025,Abenezer Apuri,Owner Reviews,441,300,Nothing
+21/01/2025,Clement Micheal,Owner Reviews,509,300,Nothing
+21/01/2025,Mary Suzana,Faxes,252,200,Nothing
+21/01/2025,Mohamad Rafiya,Owner Reviews,247,300,Incremental Target
+21/01/2025,Naveen Vasala,LOGs,213,100,Nothing
+21/01/2025,Nitish Gadila,LH Reviews,323,300,Nothing
+21/01/2025,Prasanna Laxmi K,LH Reviews,307,300,Nothing
+21/01/2025,Preethika A M,LOGs,0,100,Leave
+21/01/2025,Shriel Rithu,Emails,383,100,Nothing
+21/01/2025,Suguna Harijana,Owner Reviews,0,180,Leave
+21/01/2025,Supriya Vanamali,Faxes,242,200,Nothing
+21/01/2025,Vandana Bobbili,Owner Reviews,431,100,Nothing
+21/01/2025,Pravalika Yeligala,Owner Reviews,70,150,Working 2 queues
+21/01/2025,Shravani Aale,Owner Reviews,70,150,Working 2 queues
+21/01/2025,Chandana Kondapuram,Owner Reviews,60,150,Working 2 queues
+22/01/2025,Adil Mohd,LH OTP,0,100,Leave
+22/01/2025,Anusha Theerdhala,LH OTP,130,100,Nothing
+22/01/2025,Bharath Pabbala,LH OTP,8,100,Leave
+22/01/2025,Fahad Bin Saleh Un Naqeeb,LH OTP,93,100,Feedback shared
+22/01/2025,Govardhan reddy Renati,LH OTP,112,100,Nothing
+22/01/2025,Harika Venkata,LH OTP,107,100,Nothing
+22/01/2025,Isaac Pagdirai,LH OTP,115,100,Nothing
+22/01/2025,Lakshmi Lavanya Gorakala,LH OTP,128,100,Nothing
+22/01/2025,Laxmi Prashanthi Regu,LH OTP,137,100,Nothing
+22/01/2025,Mohammed Aleem,LH OTP,0,100,Leave
+22/01/2025,Naveen kumar Medishetty,LH OTP,94,100,Network issue
+22/01/2025,Prerana Boya,LH OTP,105,100,Nothing
+22/01/2025,Rohit Pawar,LH OTP,117,100,Nothing
+22/01/2025,Sai Chandu Balaga,LH OTP,55,60,Incremental Target
+22/01/2025,Sohel Sayyed,LH OTP,108,100,Nothing
+22/01/2025,Sravani Avula,LH OTP,128,100,Nothing
+22/01/2025,Tanuja Tamarapu,LH OTP,141,100,Nothing
+22/01/2025,Yugendar Reddy Donthiri,LH OTP,60,60,Incremental Target
+22/01/2025,Anirudh Artham,LH OTP,103,100,Nothing
+22/01/2025,Pravalika Yeligala,LH OTP.,33,100,Working 2 queues
+22/01/2025,Shravani Aale,LH OTP.,34,100,Working 2 queues
+22/01/2025,Devi Bhavani Saladi,Owner OTP,131,100,Nothing
+22/01/2025,Keerthana Mandala,Owner OTP,140,100,Nothing
+22/01/2025,Maria Priyanka,Owner OTP,113,100,Nothing
+22/01/2025,Naveen Singh,Owner OTP,150,100,Nothing
+22/01/2025,Priya Takur ,Owner OTP,46,100,Half Day Leave
+22/01/2025,Priyanka Kakan,Owner OTP,0,100,Leave
+22/01/2025,Sai Kumar Itheraj,Owner OTP,156,100,Nothing
+22/01/2025,Sandeep Ramula,Owner OTP,143,100,Nothing
+22/01/2025,Sivamani Koppisetti,Owner OTP,47,100,Emergency leave
+22/01/2025,Syam Yepuganti,Owner OTP,143,100,Nothing
+22/01/2025,Rakesh Kalakuntla,Owner OTP,0,100,Leave
+22/01/2025,Chandana Kondapuram,Owner OTP,50,100,Working 2 queues
+22/01/2025,Abdul Kadir,LOGs,175,100,Nothing
+22/01/2025,Abenezer Apuri,Owner Reviews,559,300,Nothing
+22/01/2025,Clement Micheal,Owner Reviews,336,300,Nothing
+22/01/2025,Mary Suzana,Faxes,299,200,Nothing
+22/01/2025,Mohamad Rafiya,Owner Reviews,245,180,Incremental Target
+22/01/2025,Naveen Vasala,LOGs,227,100,Nothing
+22/01/2025,Nitish Gadila,LH Reviews,341,300,Nothing
+22/01/2025,Prasanna Laxmi K,LH Reviews,293,300,Nothing
+22/01/2025,Preethika A M,LOGs,199,100,Nothing
+22/01/2025,Shriel Rithu,Emails,471,100,Nothing
+22/01/2025,Suguna Harijana,Owner Reviews,0,300,Leave
+22/01/2025,Supriya Vanamali,Faxes,278,200,Nothing
+22/01/2025,Vandana Bobbili,Owner Reviews,524,100,Nothing
+22/01/2025,Pravalika Yeligala,Owner Reviews,140,150,Working 2 queues
+22/01/2025,Shravani Aale,Owner Reviews,200,150,Working 2 queues
+22/01/2025,Chandana Kondapuram,Owner Reviews,143,150,Working 2 queues
